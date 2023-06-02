@@ -1,4 +1,4 @@
-# Browser-enabled Text Editor
+# Text Editor
 
 ## Deployed Link
 https://td-the-text-editor.herokuapp.com/
